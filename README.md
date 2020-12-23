@@ -1,2 +1,2 @@
-# ACM_project
+# Semantic Segmentation study
  
